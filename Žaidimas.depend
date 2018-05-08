@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1399803860 source:c:\users\progmokinys\desktop\þaidimas\window.cpp
+	<windows.h>
+	"header.h"
+	<ctime>
+	<sstream>
+	<string>
+
+1395642336 c:\users\progmokinys\desktop\þaidimas\header.h
+
+1395642336 source:c:\users\progmokinys\desktop\þaidimas\resources.rc
+	"header.h"
+

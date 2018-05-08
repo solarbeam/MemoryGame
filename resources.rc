@@ -1,0 +1,7 @@
+#include "header.h"
+CIRCLE BITMAP "circle.bmp"
+SQUARE BITMAP "square.bmp"
+TRIANGLE BITMAP "triangle.bmp"
+RHOMBUS BITMAP "rhombus.bmp"
+BLANK BITMAP "blank.bmp"
+
